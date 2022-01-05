@@ -8,5 +8,5 @@ URL: https://www.mdpi.com/2220-9964/10/10/635 </br>
 
 
 ___
-<img align="left" alt="PNG" src="https://www.mdpi.com/ijgi/ijgi-10-00635/article_deploy/html/images/ijgi-10-00635-ag.png" />
+<img align="left" alt="PNG" src="https://www.mdpi.com/ijgi/ijgi-10-00635/article_deploy/html/images/ijgi-10-00635-ag-550.jpg" />
 
