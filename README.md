@@ -1,6 +1,6 @@
 # Spatiotemporal Analysis of Land Cover and the Effects on Ecosystem Service Values in Rupandehi, Nepal from 2005 to 2020
 
-This repository is for the code and training data for the above paper which is still under review and will be released soon after publication. </br>
+This repository is for the code and training data for the above paper. It will be released soon and in case of need, please coontact authors via email in the paper. </br>
 
 Title: Spatiotemporal Analysis of Land Cover and the Effects on Ecosystem Service Values in Rupandehi, Nepal from 2005 to 2020 </br>
 DOI: https://doi.org/10.3390/ijgi10100635 </br>
